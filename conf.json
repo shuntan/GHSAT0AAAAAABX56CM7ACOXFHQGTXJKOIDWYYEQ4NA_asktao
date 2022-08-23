@@ -3,10 +3,10 @@
 	"web_register": "http://123.html",
 	"web_recharege": "http://123.html",
 	"game_version": "1.6",
-	"client_version": "1.665464",
+	"client_version": "1.6654",
 	"register_api": "http://43.128.10.179:1323/registered_account",
 	"changepass_api": "http://43.128.10.179:1323/change_pass",
-	"update_info": "1233213123",
+	"update_info": "1.修改启动错找不到配置文件的问题.\r\n2.压缩二进制文件大小.",
 	"client_download_url": "http://43.128.10.179/123/456.exe",
 	"game_download_url": "http://43.128.10.179/123/456.zip",
 	"servers": [{
@@ -20,7 +20,7 @@
 		"ip": "127.0.0.1",
 		"port": "8081",
 		"status": true,
-		"ping": 12
+		"ping": 43
 	}],
 	"news": [{
 		"title": "软分河滨区9月4日正式开服",
