@@ -11,8 +11,8 @@
 	"game_download_url": "http://43.128.10.179/123/456.zip",
 	"servers": [{
 		"name": "金猪鸾凤",
-		"ip": "127.0.0.1",
-		"port": "8081",
+		"ip": "43.128.10.179",
+		"port": "8101",
 		"status": true,
 		"ping": 12
 	}, {
