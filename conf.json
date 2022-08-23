@@ -1,1 +1,35 @@
-{}
+{
+	"web_home": "http://123.html",
+	"web_register": "http://123.html",
+	"web_recharege": "http://123.html",
+	"game_version": "1.6",
+	"client_version": "1.665464",
+	"register_api": "http://43.128.10.179:1323/registered_account",
+	"changepass_api": "http://43.128.10.179:1323/change_pass",
+	"update_info": "1233213123",
+	"client_download_url": "http://43.128.10.179/123/456.exe",
+	"game_download_url": "http://43.128.10.179/123/456.zip",
+	"servers": [{
+		"name": "金猪鸾凤",
+		"ip": "127.0.0.1",
+		"port": "8081",
+		"status": true,
+		"ping": 12
+	}, {
+		"name": "黄埔风云",
+		"ip": "127.0.0.1",
+		"port": "8081",
+		"status": true,
+		"ping": 12
+	}],
+	"news": [{
+		"title": "软分河滨区9月4日正式开服",
+		"url": "http://www.baidu.com"
+	}, {
+		"title": "新服开测，撒花撒花",
+		"url": "http://www.baidu.com"
+	}, {
+		"title": "新服开测，撒花撒花",
+		"url": "http://www.baidu.com"
+	}]
+}
