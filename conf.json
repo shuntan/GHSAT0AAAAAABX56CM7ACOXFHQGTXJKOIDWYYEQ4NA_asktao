@@ -10,7 +10,7 @@
 	"client_download_url": "http://43.128.10.179/123/456.exe",
 	"game_download_url": "http://43.128.10.179/123/456.zip",
 	"servers": [{
-		"name": "金猪鸾凤",
+		"name": "鸾凤和鸣",
 		"ip": "43.128.10.179",
 		"port": "8101",
 		"status": true,
